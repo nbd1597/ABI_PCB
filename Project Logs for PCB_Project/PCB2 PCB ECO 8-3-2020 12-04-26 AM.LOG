@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=PA3 Pin=IC5-1
+Removed Pin From Net: NetName=GND Pin=IC5-4
+Removed Pin From Net: NetName=PA4 Pin=IC5-7
+Removed Pin From Net: NetName=+5V Pin=IC5-8
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=GND Pin=Q6-3
+Removed Pin From Net: NetName=GND Pin=Q7-3
+Removed Pin From Net: NetName=GND Pin=Q8-3
+Removed Pin From Net: NetName=NetIC5_5 Pin=R32-2
+Removed Pin From Net: NetName=NetIC5_3 Pin=R33-2
+Removed Pin From Net: NetName=NetIC5_5 Pin=R34-2
+Removed Pin From Net: NetName=NetIC5_3 Pin=R36-2
+Removed Pin From Net: NetName=NetIC5_6 Pin=R37-2
+Removed Pin From Net: NetName=NetIC5_6 Pin=R38-1
+Removed Pin From Net: NetName=NetIC5_2 Pin=R39-2
+Removed Pin From Net: NetName=NetIC5_2 Pin=R46-1
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Footprint: Designator=Q2 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Footprint: Designator=Q3 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Footprint: Designator=Q4 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Footprint: Designator=Q5 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Footprint: Designator=Q6 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Footprint: Designator=Q7 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Footprint: Designator=Q8 Old Footprint=SOT23 New Footprint=SOT23 - 3PIN
+Change Component Comment : Designator=Q1 Old Comment=TIP41C New Comment=NPN
+Change Component Comment : Designator=Q2 Old Comment=TIP41C New Comment=NPN
+Change Component Comment : Designator=Q3 Old Comment=TIP41C New Comment=NPN
+Change Component Comment : Designator=Q4 Old Comment=TIP41C New Comment=NPN
+Change Component Comment : Designator=Q5 Old Comment=TIP41C New Comment=NPN
+Change Component Comment : Designator=Q6 Old Comment=TIP41C New Comment=NPN
+Change Component Comment : Designator=Q7 Old Comment=TIP41C New Comment=NPN
+Change Component Comment : Designator=Q8 Old Comment=TIP41C New Comment=NPN
+Change component parameters: Designator = "Q1"; Footprint = "SOT23 - 3PIN"; UniqueID = "\QEXAARWQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q2"; Footprint = "SOT23 - 3PIN"; UniqueID = "\IODSWDCW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q3"; Footprint = "SOT23 - 3PIN"; UniqueID = "\MGUWSEIB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q4"; Footprint = "SOT23 - 3PIN"; UniqueID = "\REIJOGWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q5"; Footprint = "SOT23 - 3PIN"; UniqueID = "\NIPXGIBI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q6"; Footprint = "SOT23 - 3PIN"; UniqueID = "\QFGAYRHX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q7"; Footprint = "SOT23 - 3PIN"; UniqueID = "\QKDSAVOF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q8"; Footprint = "SOT23 - 3PIN"; UniqueID = "\PRQVPUHN"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=PA4 Pin=IC5-1
+Added Pin To Net: NetName=PA3 Pin=IC5-7
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q7-1
+Added Pin To Net: NetName=GND Pin=Q8-1
+Added Pin To Net: NetName=NetIC5_3 Pin=R32-2
+Added Pin To Net: NetName=NetIC5_5 Pin=R33-2
+Added Pin To Net: NetName=NetIC5_3 Pin=R34-2
+Added Pin To Net: NetName=NetIC5_5 Pin=R36-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R37-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R38-1
+Added Pin To Net: NetName=NetIC5_6 Pin=R39-2
+Added Pin To Net: NetName=NetIC5_6 Pin=R46-1
+Added Pin To Net: NetName=NetP12_2 Pin=P12-2
+Added Pin To Net: NetName=NetP12_2 Pin=Q8-2
+Added Net: Name=NetP12_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R1-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R2-1
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R3-1
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R4-1
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R5-1
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R6-1
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=R7-1
+Added Net: Name=NetQ7_3
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-3
+Added Pin To Net: NetName=NetQ8_3 Pin=R8-1
+Added Net: Name=NetQ8_3
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=D13-1
+Removed Pin From Net: NetName=GND Pin=D14-1
+Removed Pin From Net: NetName=GND Pin=D15-1
+Removed Pin From Net: NetName=GND Pin=D16-1
+Removed Pin From Net: NetName=PD15 Pin=R71-2
+Removed Pin From Net: NetName=PD14 Pin=R72-2
+Removed Pin From Net: NetName=PD13 Pin=R73-2
+Removed Pin From Net: NetName=PD12 Pin=R74-2
+Added Pin To Net: NetName=PD15 Pin=D13-1
+Added Pin To Net: NetName=PD14 Pin=D14-1
+Added Pin To Net: NetName=PD13 Pin=D15-1
+Added Pin To Net: NetName=PD12 Pin=D16-1
+Added Pin To Net: NetName=GND Pin=R71-2
+Added Pin To Net: NetName=GND Pin=R72-2
+Added Pin To Net: NetName=GND Pin=R73-2
+Added Pin To Net: NetName=GND Pin=R74-2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

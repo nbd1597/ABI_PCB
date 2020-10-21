@@ -1,0 +1,83 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Change Component Designator: OldDesignator=Q? NewDesignator=Q8
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ4_3
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=P3-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=P6-2
+Added Pin To Net: NetName=NetD4_1 Pin=Q3-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=P2-2
+Added Pin To Net: NetName=NetD5_1 Pin=Q4-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=P7-2
+Added Pin To Net: NetName=NetD6_1 Pin=Q6-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=P11-2
+Added Pin To Net: NetName=NetD7_1 Pin=Q7-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=P12-2
+Added Pin To Net: NetName=NetD8_1 Pin=Q8-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R1-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R2-1
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R3-1
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R5-1
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R6-1
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=R7-1
+Added Net: Name=NetQ7_3
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-3
+Added Pin To Net: NetName=NetQ8_3 Pin=R8-1
+Added Net: Name=NetQ8_3
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D5 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D6 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D7 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 NPN
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 NPN
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 NPN
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 NPN
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 NPN
+Added Member To Class: ClassName=Sheet1 Member=Component Q6 NPN
+Added Member To Class: ClassName=Sheet1 Member=Component Q7 NPN
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

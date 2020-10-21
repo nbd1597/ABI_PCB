@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=+5V Pin=B0-1
+Removed Pin From Net: NetName=+5V Pin=B0-1
+Removed Pin From Net: NetName=+5V Pin=B1-1
+Removed Pin From Net: NetName=+5V Pin=B1-1
+Removed Pin From Net: NetName=+5V Pin=B2-1
+Removed Pin From Net: NetName=+5V Pin=B2-1
+Removed Pin From Net: NetName=+5V Pin=C47-2
+Removed Pin From Net: NetName=+5V Pin=C48-2
+Removed Pin From Net: NetName=+5V Pin=C49-2
+Added Pin To Net: NetName=+3V Pin=B0-1
+Added Pin To Net: NetName=+3V Pin=B0-1
+Added Pin To Net: NetName=+3V Pin=B1-1
+Added Pin To Net: NetName=+3V Pin=B1-1
+Added Pin To Net: NetName=+3V Pin=B2-1
+Added Pin To Net: NetName=+3V Pin=B2-1
+Added Pin To Net: NetName=+3V Pin=C47-2
+Added Pin To Net: NetName=+3V Pin=C48-2
+Added Pin To Net: NetName=+3V Pin=C49-2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

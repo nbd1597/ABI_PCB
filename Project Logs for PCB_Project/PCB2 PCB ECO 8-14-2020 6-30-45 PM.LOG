@@ -1,0 +1,8 @@
+Added Component: Designator=IC6(SOIC 8PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM358"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA4 Pin=IC6-7
+Added Member To Class: ClassName=Sheet3 Member=Component IC6 LM358
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

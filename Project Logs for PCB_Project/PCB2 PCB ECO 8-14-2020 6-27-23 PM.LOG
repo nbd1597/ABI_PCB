@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=PA4 Pin=IC5-1
+Removed Pin From Net: NetName=PA3 Pin=IC5-7
+Removed Pin From Net: NetName=NetIC5_3 Pin=R32-2
+Removed Pin From Net: NetName=NetIC5_3 Pin=R34-2
+Removed Pin From Net: NetName=NetIC5_2 Pin=R37-2
+Removed Pin From Net: NetName=NetIC5_2 Pin=R38-1
+Added Component: Designator=IC6(SOIC 8PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM358"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA3 Pin=IC5-1
+Added Pin To Net: NetName=GND Pin=IC5-4
+Added Pin To Net: NetName=+5V Pin=IC5-8
+Added Pin To Net: NetName=PA4 Pin=IC6-7
+Added Pin To Net: NetName=NetIC5_3 Pin=R33-2
+Added Pin To Net: NetName=NetIC5_3 Pin=R36-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R39-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R46-1
+Added Member To Class: ClassName=Sheet3 Member=Component IC6 LM358
+Added Member To Class: ClassName=Sheet2 Member=Component P4 Header 5X2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

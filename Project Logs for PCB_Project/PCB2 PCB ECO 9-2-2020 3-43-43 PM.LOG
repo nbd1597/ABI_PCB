@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=VDD0 Pin=C4-1
+Added Pin To Net: NetName=VDD0 Pin=D9-1
+Added Pin To Net: NetName=VDD0 Pin=D12-1
+Added Pin To Net: NetName=VDD0 Pin=jump1-2
+Added Pin To Net: NetName=VDD0 Pin=LCD1-8
+Added Pin To Net: NetName=VDD0 Pin=P15-3
+Added Pin To Net: NetName=VDD0 Pin=P15-4
+Added Pin To Net: NetName=VDD0 Pin=R10-1
+Added Pin To Net: NetName=VDD0 Pin=U2-2
+Added Pin To Net: NetName=VDD0 Pin=U2-4
+Change Net Name : Old Net Name=VDD0 New Net Name=+3V
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

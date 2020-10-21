@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=-5V Pin=C6-1
+Removed Pin From Net: NetName=-5V Pin=C7-1
+Removed Pin From Net: NetName=-5V Pin=C10-2
+Removed Pin From Net: NetName=-5V Pin=C12-1
+Removed Pin From Net: NetName=-5V Pin=C15-1
+Removed Pin From Net: NetName=-5V Pin=P2-3
+Removed Pin From Net: NetName=-5V Pin=R3-2
+Removed Pin From Net: NetName=-5V Pin=U1-4
+Removed Pin From Net: NetName=-5V Pin=U2-4
+Removed Pin From Net: NetName=-5V Pin=U3-5
+Removed Pin From Net: NetName=-5V Pin=U4-4
+Removed Pin From Net: NetName=-5V Pin=U5-4
+Change Net Name : Old Net Name=-5V New Net Name=GND
+Added Pin To Net: NetName=-5V Pin=C6-1
+Added Pin To Net: NetName=-5V Pin=C7-1
+Added Pin To Net: NetName=-5V Pin=C10-2
+Added Pin To Net: NetName=-5V Pin=C12-1
+Added Pin To Net: NetName=-5V Pin=C15-1
+Added Pin To Net: NetName=-5V Pin=C16-2
+Added Pin To Net: NetName=-5V Pin=P2-3
+Added Pin To Net: NetName=-5V Pin=R3-2
+Added Pin To Net: NetName=-5V Pin=U1-4
+Added Pin To Net: NetName=-5V Pin=U2-4
+Added Pin To Net: NetName=-5V Pin=U3-5
+Added Pin To Net: NetName=-5V Pin=U4-4
+Added Pin To Net: NetName=-5V Pin=U5-4
+Added Pin To Net: NetName=-5V Pin=U7-4
+Added Net: Name=-5V

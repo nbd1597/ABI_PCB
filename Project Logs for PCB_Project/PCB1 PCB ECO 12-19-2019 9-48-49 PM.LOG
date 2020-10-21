@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V Pin=C16-2
+Removed Pin From Net: NetName=+5V Pin=U6-2
+Added Pin To Net: NetName=5V Pin=C16-2
+Added Pin To Net: NetName=5V Pin=U6-2
+Added Net: Name=5V
+Added Room: Name=Sheet1

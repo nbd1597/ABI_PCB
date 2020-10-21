@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=+5V Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Sheet3 Member=Component P17 Header 2H
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

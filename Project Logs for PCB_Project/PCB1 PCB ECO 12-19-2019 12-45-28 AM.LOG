@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PWM2 Pin=R19-2
+Added Component: Designator=P9(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P10(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=P9-1
+Added Pin To Net: NetName=+5V Pin=P9-2
+Added Pin To Net: NetName=PWM2 Pin=P10-2
+Added Pin To Net: NetName=PWM1 Pin=P10-3
+Added Pin To Net: NetName=PWM3 Pin=P10-1
+Added Pin To Net: NetName=PWM3 Pin=R19-2
+Added Net: Name=PWM3
+Added Member To Class: ClassName=Sheet1 Member=Component P9 Header 2H
+Added Member To Class: ClassName=Sheet1 Member=Component P10 Header 3H
+Added Room: Name=Sheet1

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=R5-2
+Added Component: Designator=U3(DIP 8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Renesas Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ICL7660SIBAZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Intersil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ICL7660SIBAZ/Renesas%20Electronics%20America%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetC5_2 Pin=U3-4
+Added Pin To Net: NetName=-5V Pin=U3-5
+Added Pin To Net: NetName=Interrupt Pin=U3-8
+Added Member To Class: ClassName=Sheet1 Member=Component U3 ICL7660

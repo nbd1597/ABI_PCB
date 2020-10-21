@@ -1,0 +1,25 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~D:\Project\NIBP\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~73|ReportField=ReportTime~3:17:55 PM|ReportField=ReportDate~12/26/2019|ReportField=ReportDateTime~12/26/2019 3:17:55 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/26/2019|ReportField=CurrentTime~3:16:50 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Project\NIBP\PCB_Project\Sheet1.schdoc|ReportField=DocumentName~Sheet1.schdoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/20/2019|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~D:\Project\NIBP\PCB_Project\PCB_Project.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|LED||+5V, -5V|LED SMD 0805|LED|2
+2|1uF||C1, C9|0805 CAP|CAP CERAMIC|2
+3|104||C2, C3, C6, C7, C11, C12, C13, C14, C15, C16, C17, C18, C19|0805 CAP|CAP CERAMIC|13
+4|10uF||C4, C5|0805 CAP|CAP CERAMIC|2
+5|10uF||C8, C10|CAP TANTALUM SMD7434|CAPACITOR|2
+6|DIODE||D1, D2, D3|DIODE SMA|DIODE|3
+7|HOLE||H1, H2, H3, H4|HOLE|HOLE|4
+8|JACK DC||JACK1|JACK DC|JACK DC|1
+9|Header 3H||P1, P2, P3, P5, P10|HDR1X3|Header 3H|5
+10|Header 3X2||P4|HDR2X3|Header 3X2|1
+11|Valve||P6, P7|HDR1X2|Header 2H|2
+12|Pump||P8|HDR1X2|Header 2H|1
+13|Header 2H||P9|HDR1X2|Header 2H|1
+14|TIP41C|NPN 2W, BCE|Q1, Q2, Q3|QTO-220|TIP41C|3
+15|10k||R1, R3, R9, R10, R11, R12, R13, R14, R15, R17, R18, R19, R20, R21|0805 RESISTOR|RESISTOR|14
+16|33k||R2, R4, R5, R6|0805 RESISTOR|RESISTOR|4
+17|5.6k||R7, R8|0805 RESISTOR|RESISTOR|2
+18|2.2k||R16|0805 RESISTOR|RESISTOR|1
+19|SWITCH||S1, S2|SW 4PIN|SWITCH|2
+20|LM741||U1, U2, U4, U5|DIP 8|LM741|4
+21|ICL7660|ICL7660 Series 1.5 - 12 Vin 45 mA 10-35 kHz CMOS Voltage Converter - SOIC-8|U3|DIP 8|ICL7660SIBAZ|1
+22|MPS20N0040D||U6|MPS20N0040D-S|MPS20N0040D|1
+23|INA-129||U7|DIP 8|INA-129|1
+24|10K||VR1|RVAR|VAR RES|1

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LCD_RST Pin=U11-44
+Removed Pin From Net: NetName=LCD_DC Pin=U11-45
+Removed Pin From Net: NetName=LCD_CS Pin=U11-46
+Added Pin To Net: NetName=LCD_CS Pin=U11-1
+Added Pin To Net: NetName=LCD_RST Pin=U11-2
+Added Pin To Net: NetName=LCD_DC Pin=U11-3
+Added Pin To Net: NetName=PE13 Pin=U11-44
+Added Net: Name=PE13
+Added Pin To Net: NetName=PE14 Pin=U11-45
+Added Net: Name=PE14
+Added Pin To Net: NetName=PE15 Pin=U11-46
+Added Net: Name=PE15
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1 LCD TFT 2.2"
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetR10_2 Pin=U2-1
+Removed Pin From Net: NetName=+3V Pin=U2-2
+Removed Pin From Net: NetName=+5V Pin=U2-3
+Added Component: Designator=U2(SOT223-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR10_2 Pin=U2-1
+Added Pin To Net: NetName=+3V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Pin To Net: NetName=+3V Pin=U2-4
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

@@ -1,0 +1,13 @@
+Added Component: Designator=H1(HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(HOLE)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component H1 HOLE
+Added Member To Class: ClassName=Sheet1 Member=Component H2 HOLE
+Added Member To Class: ClassName=Sheet1 Member=Component H3 HOLE
+Added Member To Class: ClassName=Sheet1 Member=Component H4 HOLE
+Added Room: Name=Sheet1

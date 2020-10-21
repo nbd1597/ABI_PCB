@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=IC1 Old Footprint=DIP8/W0.3 New Footprint=SOIC 8PIN
+Change Component Footprint: Designator=IC3 Old Footprint=DIP8/W0.3 New Footprint=SOIC 8PIN
+Change Component Footprint: Designator=IC4 Old Footprint=DIP8/W0.3 New Footprint=SOIC 8PIN
+Change Component Footprint: Designator=IC6 Old Footprint=DIP8/W0.3 New Footprint=SOIC 8PIN
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

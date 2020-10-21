@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V Pin=P9-1
+Removed Pin From Net: NetName=+5V Pin=P9-2
+Change Net Name : Old Net Name=NetC17_1 New Net Name=Interrupt1
+Change Net Name : Old Net Name=NetC18_1 New Net Name=Interrupt2

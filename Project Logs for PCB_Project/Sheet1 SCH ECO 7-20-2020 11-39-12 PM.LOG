@@ -1,0 +1,7 @@
+Remove Pin=P14-1 From Net=+5V
+Remove Pin=P14-3 From Net=RX
+Remove Pin=P14-4 From Net=TX
+Remove Pin=P14-5 From Net=GND
+Change Component Designator: OldDesignator=+3V NewDesignator=+2
+Change Component Designator: OldDesignator=+5V NewDesignator=+1
+Change Component Designator: OldDesignator=-5V NewDesignator=-1
