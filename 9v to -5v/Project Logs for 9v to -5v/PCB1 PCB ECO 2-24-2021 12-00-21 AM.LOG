@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Added Component: Designator=U(CONV_TPS5430DDAR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=423058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-26988-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=423058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=423058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS5430DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HSOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS5430DDAR/Texas%20Instruments/view-part/423058/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=423058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet4 Member=Component U TPS5430DDAR
+Added Room: Name=Sheet4

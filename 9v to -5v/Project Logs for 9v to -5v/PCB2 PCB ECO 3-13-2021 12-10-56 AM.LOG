@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Vin Pin=D3-1
+Added Member To Class: ClassName=Sheet4 Member=Component R8 240
+Added Room: Name=Sheet4
